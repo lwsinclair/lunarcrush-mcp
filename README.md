@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nic0xflamel-lunarcrush-mcp-badge.png)](https://mseep.ai/app/nic0xflamel-lunarcrush-mcp)
+
 # LunarCrush MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@nic0xflamel/lunarcrush-mcp-server)](https://smithery.ai/server/@nic0xflamel/lunarcrush-mcp-server)
